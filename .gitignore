@@ -1,0 +1,13 @@
+node_modules
+yarn-error.log
+.env
+artifacts
+contracts/IBridge.sol
+contracts/IToken.sol
+contracts/BaseERC20.sol
+contracts/ERC20token.sol
+description.txt
+frontend
+coverage
+coverage.json
+typechain
